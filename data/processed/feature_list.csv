@@ -1,0 +1,33 @@
+Feature,Type,Non_Null_Count,Sample_Value
+match_id,int64,2380,335982
+date,datetime64[us],2380,2008-04-18 00:00:00
+batting_team,str,2380,Kolkata Knight Riders
+bowling_team,str,2380,Royal Challengers Bangalore
+player_of_match,str,2380,BB McCullum
+toss_winner,str,2380,Royal Challengers Bangalore
+toss_decision,str,2380,field
+venue,str,2380,M Chinnaswamy Stadium
+city,str,2380,Bangalore
+season,float64,2380,0.0
+year,int32,2380,2008
+month,int32,2380,4
+day_of_week,int32,2380,4
+quarter,int32,2380,2
+toss_won,int64,2380,0
+chose_to_bat,int64,2380,0
+toss_decision_encoded,int64,2380,1
+batting_matches_played,int64,2380,269
+batting_player_of_match_count,int64,2380,0
+bowling_matches_played,int64,2380,239
+bowling_player_of_match_count,int64,2380,0
+max_overs,int64,2380,19
+total_runs,int64,2380,301
+total_extras,int64,2380,33
+total_wickets,int64,2380,13
+unique_batters,int64,2380,16
+unique_bowlers,int64,2380,11
+venue_matches_count,int64,2380,129
+city_matches_count,int64,2380,129
+season_matches_count,float64,2380,0.0
+batting_team_cumulative_matches,int64,2380,1
+bowling_team_cumulative_matches,int64,2380,1
