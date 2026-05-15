@@ -1,6 +1,3 @@
-Copilot said: Perfect! Here's the updated README with your
-Perfect! Here's the updated README with your name:
-
 IPL Cricket Analytics - Data Science Project
 A comprehensive data science project that analyzes Indian Premier League cricket matches and predicts match winners using machine learning.
 
@@ -53,9 +50,6 @@ The best model is Random Forest with 48.95% accuracy, 0.4895 precision, 0.4874 r
 
 Future Improvements
 The project can be enhanced with real-time match predictions, detailed player performance analytics, team strategy analysis, venue-specific prediction models, a web dashboard using Flask or Streamlit, deep learning models using LSTM or CNN, an API for making predictions, and mobile app integration.
-
-License
-This project is open source and available under the MIT License.
 
 Author
 This project was created by Gayathri Sindhura Peri as a data science portfolio project.
