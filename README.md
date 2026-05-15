@@ -1,4 +1,5 @@
-IPL Cricket Analytics - Data Science Project
+IPL CRICKET ANALYSIS _ A DATA SCIENCE PROJECT
+
 A comprehensive data science project that analyzes Indian Premier League cricket matches and predicts match winners using machine learning.
 
 Project Overview
