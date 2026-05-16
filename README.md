@@ -70,4 +70,4 @@ The project can be enhanced with real-time match predictions, detailed player pe
 
 Author
 
-This project was created by Gayathri Sindhura Peri as a data science portfolio project.
+ Gayathri Sindhura Peri 
